@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="186.72084mm"
+   height="186.72084mm"
+   viewBox="0 0 661.60928 661.60927"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="pt.svg"
+   style="color:#cccccc"
+   inkscape:export-filename="H:\SCP\Icons\scp-logo-pt-400.png"
+   inkscape:export-xdpi="54.41"
+   inkscape:export-ydpi="54.41">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient7967"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop7969" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7887"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7889" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7065"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7067" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4022"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="color:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4025"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="color:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4022-1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="color:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4025-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="color:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="scale(0.2)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0187126"
+     inkscape:cx="343.11728"
+     inkscape:cy="348.24493"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     fit-margin-top="11.086935"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="11.086935" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 5"
+     style="color:#cccccc;display:inline"
+     transform="translate(-47.316339,-344.94849)">
+    <path
+       sodipodi:nodetypes="ccccccccccccsccc"
+       style="color:#cccccc;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.32299995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 291.59324,395.13925 -14.7818,59.06682 c -92.58811,38.9891 -158.24433,129.88138 -159.92609,236.77796 -0.19021,12.08198 0.45796,23.99117 1.86276,35.66247 l -42.001994,40.61967 86.527674,149.86021 54.65072,-15.62276 c 43.17256,33.56303 97.1935,53.90402 156.08035,54.83039 61.83477,0.9729 118.9734,-19.62372 164.28254,-54.83039 l 54.6807,15.62276 86.52776,-149.86021 -42.00201,-40.61967 c 1.08509,-9.01076 1.71684,-18.15509 1.86276,-27.43029 C 641.08392,589.42446 574.8181,494.36239 479.43053,454.20607 l -14.78182,-59.06682 z"
+       id="path4584"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#cccccc;fill:#009b3a;fill-opacity:1;stroke:none;stroke-width:0.93749994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 291.59325,395.13925 -14.78181,59.06682 C 124.78404,521.9333 112.23926,660.17854 118.74812,726.6465 l -42.001994,40.61967 86.527674,149.86021 54.65072,-15.62276 c 44.36571,33.84621 93.42734,60.10672 160.17135,57.80338 V 393.69295 Z"
+       id="path4586"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <circle
+       style="color:#cccccc;display:inline;opacity:1;fill:#fedf00;fill-opacity:1;stroke:none;stroke-width:4.96875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path4550"
+       cx="381.65646"
+       cy="690.22784"
+       r="162.35854" />
+    <g
+       transform="matrix(2.3234769,0,0,2.3234769,244.03204,1221.1733)"
+       id="g5453"
+       style="color:#cccccc;display:inline" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3825-1-9-0"
+       d="m 288.23026,384.23291 -15.35632,61.36251 C 176.68731,486.09987 108.47929,580.52477 106.73217,691.576 c -0.19761,12.55156 0.47576,24.92361 1.93514,37.04853 l -43.634435,42.19839 89.890655,155.68468 56.77478,-16.22995 c 44.8505,34.86749 100.97102,55.99905 162.14657,56.96143 64.23805,1.01071 123.59742,-20.38642 170.66755,-56.96143 l 56.80592,16.22995 89.89075,-155.68468 -43.63446,-42.19839 c 1.12726,-9.36098 1.78357,-18.86071 1.93516,-28.4964 C 651.30424,586.06921 582.46294,487.31245 483.36803,445.59542 L 468.0117,384.23291 Z m 9.98784,14.98171 h 159.80576 l 14.51363,58.08527 c 96.33797,38.15293 163.77902,132.86642 162.05296,242.57849 -0.15288,9.73962 -0.85409,19.33654 -2.05997,28.77738 l -0.46048,2.90194 41.16092,40.42005 -79.90279,138.3933 -54.27205,-15.04362 -5.31182,4.4317 c -44.21184,33.78721 -99.69266,53.504 -159.64963,52.56067 -57.06455,-0.89779 -109.48728,-20.37387 -151.59693,-52.56067 l -5.25429,-4.54673 -54.32956,15.15865 -79.902893,-138.3933 41.017133,-40.1037 -0.3166,-3.21829 c -1.53665,-12.04049 -2.25654,-24.33912 -2.05998,-36.83001 1.68149,-106.87632 68.5069,-197.41984 162.05297,-234.49473 z"
+       style="color:#cccccc;display:inline;fill:#000000;stroke:none;stroke-width:2.32299995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccccccccscccccccccccccsccccccccc" />
+    <path
+       id="path7624"
+       d="m 392.11728,531.15542 c 98.94657,97.55811 98.94657,228.53357 0,326.08062 M 251.31739,797.7309 c 76.08383,-54.28315 178.22776,-54.28315 254.31712,0 M 367.67243,529.58993 c -99.63254,98.22746 -99.63254,230.11566 0,328.34311 m 9.95716,-328.17162 c -90.68765,0.46467 -163.82858,74.35791 -163.35839,165.04557 0.45915,90.69872 74.35792,163.82859 165.05111,163.36945 90.68214,-0.47019 163.82857,-74.35791 163.35838,-165.05111 C 542.22155,603.09594 469.3517,530.22609 379.32231,529.76142 Z m 0.84636,0 V 858.17644 M 538.7668,693.96617 h -77.27967 m 0.007,0 H 214.26569 m 37.05171,-98.79723 c 76.08383,54.27761 178.22776,54.27761 254.31712,0"
+       inkscape:connector-curvature="0"
+       style="color:#cccccc;display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:10.00031185;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4900-6-3"
+       d="m 363.13918,489.10471 v 26.40527 c -90.60517,7.51196 -162.49676,82.71994 -163.95696,175.53545 -0.44404,28.24944 5.46568,54.34378 18.36221,81.27483 l -20.34882,14.84819 17.45099,24.35734 18.31757,-13.2373 c 34.05727,44.65138 82.50846,73.56213 142.34775,74.50355 61.86755,0.97347 114.91425,-27.37375 147.79982,-74.59546 l 18.48362,13.32921 17.45099,-24.35734 -20.23137,-14.33378 c 0.005,-0.009 -0.005,-0.0244 0,-0.0325 10.50002,-22.29005 17.83188,-49.86869 18.24469,-76.10871 1.49012,-94.71839 -70.89169,-173.43026 -163.95689,-181.15359 v -26.43643 h -29.9636 z m 29.9636,56.49348 c 76.26771,7.6263 135.22048,72.59725 133.99336,150.59718 -0.33017,20.95785 -4.98258,40.83425 -13.07788,58.80313 l -54.87079,-39.24533 12.48486,-21.62985 -80.52716,-0.34318 40.3357,69.40724 12.5939,-21.561 54.97053,39.3406 c -27.5322,38.13342 -72.63181,62.65788 -123.2252,61.86188 -48.90619,-0.76935 -91.95339,-25.02854 -118.54344,-61.86188 l 54.97055,-39.3406 12.5939,21.561 40.33568,-69.40724 -80.63618,0.41202 12.5939,21.56101 -54.8708,39.24533 c -8.72575,-19.3537 -13.43385,-40.88724 -13.07789,-63.51609 1.20232,-76.42102 59.73741,-138.44693 133.99336,-145.85299 v 63.3288 h -24.96964 l 39.95144,69.91456 39.95144,-69.91456 h -24.96964 z"
+       style="color:#cccccc;display:inline;fill:#fedf00;fill-opacity:1;stroke:#000000;stroke-width:9.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:nodetypes="cccccccscccccscccccccccccccscccccccsccccccc" />
+    <g
+       style="color:#cccccc;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.91925049px;line-height:125%;font-family:'Bauhaus LT Demi';-inkscape-font-specification:'Bauhaus LT Demi Semi-Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text3057"
+       transform="matrix(2.3234769,0,0,2.3234769,29.599469,-1420.8644)" />
+  </g>
+  <style
+     type="text/css"
+     class="stylish"
+     id="stylish-4">@namespace html url(http://www.w3.org/1999/xhtml);
+@namespace xul url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
+
+/* Browser Background */
+browser[type=&quot;content-primary&quot;] {
+background-color: #141414 !important;
+}
+/*No background images. try to exclude icons, other misc items. */
+
+*:not(:empty):not([onclick*=&quot;open&quot;]):not(span):not([class*=&quot;stars&quot;]):not([id*=&quot;stars&quot;]):not([id=&quot;rating&quot;]):not([class=&quot;rating&quot;]):not([class*=&quot;prite&quot;]):not([id*=&quot;prite&quot;]):not([id*=&quot;lbImage&quot;]) {
+background-image: none !important;
+}
+
+/* Basic Bodies */
+html,
+body {
+background: none #141414 !important;
+}
+
+/* Make descendents of the body element transparent.  Formerly &quot;DIV + SPAN&quot; rules. */
+body * {
+background-color: transparent !important;
+}
+
+/* Give id's BG hopefully */
+div[id] {
+background-color: inherit !important;
+}
+
+/* Filter non-icons */
+span:not(:empty):not([class*=&quot;icon&quot;]):not([id*=&quot;icon&quot;]):not([class*=&quot;star&quot;]):not([id*=&quot;star&quot;]):not([id*=&quot;rating&quot;]):not([class*=&quot;rating&quot;]):not([class*=&quot;prite&quot;]) {
+
+background: none transparent !important;
+border-color: #000 !important;
+}
+
+/* Try to contrast containers */
+html:root &gt; body &gt; * &gt; * &gt; * &gt; *:not(input):not([onclick]) &gt; div:not(:empty):not([id]) {
+background: none #1c1c1c !important
+}
+
+/* :::::::: Text Presentation :::::::: */
+
+summary,
+details {
+background-color: inherit !important;
+}
+
+abbr,
+progress,
+time,
+label,
+.date {
+color: #CDEFC2 !important;
+}
+
+mark,
+code,
+pre,
+blockquote,
+[class*=&quot;quote&quot;],
+td[style*=&quot;inset&quot;][class=&quot;alt2&quot;] {
+background-color: #00090F !important;
+}
+
+
+/* :::::::: Headings + Header :::::::: */
+
+/* Header gradient rules */
+
+header, 
+#header {
+background: -moz-linear-gradient(#333,#141414) transparent !important;
+}
+
+#header h1 {
+background-color: transparent !important;
+}
+
+h1,
+h2 { 
+background: none #28313E !important;
+border-radius: 5px !important;
+-moz-border-radius: 5px !important;
+-webkit-border-radius: 5px !important;
+} 
+
+h3,
+h4 {
+background: none #2A3731 !important;
+border-radius: 5px !important;
+-moz-border-radius: 5px !important;
+-webkit-border-radius: 5px !important;
+} 
+
+h5,
+h6 {
+background: none #372A2A !important;
+}
+
+
+/* :::::::: Lists :::::::: */
+
+dt {
+background-color: #2B3135 !important;
+}
+
+dl,
+dd {
+background-color: #232323 !important;
+}
+
+li,
+ul {
+background-color: inherit !important;
+}
+
+li a:not([class*=&quot;icon&quot;]):not([id*=&quot;icon&quot;]):not([onclick]),
+dt a:not([class*=&quot;icon&quot;]):not([id*=&quot;icon&quot;]):not([onclick]) {
+background-image: none !important;
+text-indent: 0 !important;
+}
+
+/* :::::::: list Item highlight :::::::: */
+
+li[class*=&quot;item&quot;] a:hover,
+li[class*=&quot;item&quot;]:hover,
+
+/* Not list item, but still useful*/
+
+[class*=&quot;menuitem&quot;]:hover {
+background-color: #2E2B2F !important;
+}
+
+/* :::::::: Tables, cells :::::::: */
+
+table {
+background-color: #232323 !important; 
+border-color: #333 !important;
+}
+
+table table {
+background: #191919 !important;
+}
+
+th,
+caption {
+background-color: #353535 !important;
+}
+
+/* :::::::: Input :::::::: */
+
+/* === Basic === */
+
+/* anonymous divs */
+
+input *,
+textarea * {
+color: #DDD !important;
+}
+
+html body input:not([type=&quot;image&quot;]),
+button,
+html body textarea {
+
+background: none #353535 !important; 
+-moz-appearance: none !important;
+-webkit-appearance: none !important;
+color:  #DDD  !important;
+border: solid 1px #777 !important;
+border-radius: 0 !important;
+-moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+opacity: 1 !important;
+}
+
+/* Style reset. */
+
+html body input[type=&quot;checkbox&quot;] {
+-moz-appearance: checkbox !important;
+-webkit-appearance: checkbox !important;
+}
+
+html body input[type=&quot;radio&quot;] {
+-moz-appearance: radio !important;
+-webkit-appearance: radio !important;
+}
+
+/* :::::::: Custom styling :::::::: */
+
+html:root input[type=&quot;button&quot;],
+html:root input[type=&quot;submit&quot;],
+html:root input[type=&quot;reset&quot;],
+html:root button {
+
+color: #EEE !important;
+background-color: #222437 !important;
+
+-moz-box-shadow: inset 0 1px rgba(255,255,255,0.2), inset 0 10px rgba(255,255,255,0.1), inset 0 10px 20px rgba(255,255,255,0.15), inset 0 -15px 30px rgba(0,0,0,0.2) !important;
+-webkit-box-shadow: inset 0 1px rgba(255,255,255,0.2), inset 0 10px rgba(255,255,255,0.1), inset 0 10px 20px rgba(255,255,255,0.15), inset 0 -15px 30px rgba(0,0,0,0.2) !important;
+}
+
+html:root input[type=&quot;button&quot;]:hover,
+html:root input[type=&quot;submit&quot;]:hover,
+html:root input[type=&quot;reset&quot;]:hover,
+html:root button:hover {
+
+color: #FFF !important;
+background-color: #31344F !important;
+border-color: #5F687F !important;
+
+-moz-box-shadow: inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(255,255,255,0.2), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -15px 30px rgba(0,0,0,0.3) !important;
+-webkit-box-shadow:  inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(255,255,255,0.2), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -15px 30px rgba(0,0,0,0.3) !important;
+}
+
+html:root input[type=&quot;image&quot;] {
+opacity: .85 !important;
+}
+
+html:root input[type=&quot;image&quot;]:hover {
+opacity: .95 !important;
+}
+
+/* Drop-down menu */
+
+select,
+option,
+optgroup {
+
+background: none #383838 !important;
+border-color:#555 !important;
+color:#f1f1f1 !important;
+-moz-appearance: none !important;
+}
+
+/* :::::::: Misc :::::::: */
+
+address {
+background: none #333 !important;
+}
+
+hr {
+background: none #444 !important
+}
+
+/*currently viewed page*/
+.current {
+color: #FFF !important;
+}
+
+/* Remove Rounded Corners, Borders, Spacer, Padding images */
+
+img[src*=&quot;spacer&quot;]:empty,
+[id*=&quot;round&quot;]:empty,
+[id*=&quot;bottom&quot;]:empty, 
+[class*=&quot;bottom&quot;]:empty,
+[class*=&quot;Bottom&quot;]:empty,
+[id*=&quot;top&quot;]:empty,
+[class*=&quot;top&quot;]:empty,
+[class*=&quot;Top&quot;]:empty,
+[class*=&quot;spacer&quot;]:empty {
+background-image: none !important;
+}
+
+/* Menus and Navigation */
+
+nav, 
+menu,
+
+/*Common naming conventions - in case previous declarations fail to give solid BG*/
+
+html body [class*=&quot;open&quot;],
+html body [id*=&quot;Dropdown&quot;],
+html body [id*=&quot;dropdown&quot;],
+html body [class*=&quot;Dropdown&quot;],
+html body [class*=&quot;dropdown&quot;],
+html body [id*=&quot;menu&quot;]:not(SELECT),
+html body [class*=&quot;menu&quot;]:NOT(SELECT),
+html body [class*=&quot;tooltip&quot;],
+html body [class*=&quot;popup&quot;], 
+html body [id*=&quot;popup&quot;],
+
+/* Notes, details, etc.  Maybe useful */
+
+html body [class*=&quot;note&quot;],
+html body [class*=&quot;detail&quot;],
+html body [class*=&quot;description&quot;]
+
+{background-color: #232323 !important}
+
+/* Also common */
+[class*=&quot;content&quot;],
+[class*=&quot;container&quot;] {
+background-color: #1c1c1c !important;
+}
+
+/* Headers, Logos */
+
+[id*=&quot;masthead&quot;] a,
+[id*=&quot;header&quot;] a,
+[id*=&quot;logo&quot;] a,
+[class*=&quot;logo&quot;] a {
+text-indent: 0 !important;
+}
+
+/* Instead of increasing specificity rating by using :not, set rules separately */
+
+html:root body [class*=&quot;layer&quot;],
+html:root body #lightbox-nav,
+html:root body #imageContainer {
+background-color: transparent !important;
+}
+
+/*::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/
+
+/* Universal - sets color of text, border */
+
+* {
+color: #CCC !important; 
+border-color: #444 !important;
+outline-color: #444 !important;
+text-shadow: none !important;
+}
+
+html *:after,
+html *:before {
+color: #CCC !important;
+border-color: #666 !important;
+background: none transparent !important;
+}
+
+
+/* Link */
+
+a:link,
+a:link *:not(img){ 
+
+color: #B1CBF7 !important;
+background-color: transparent !important;
+border-color: #666 !important;}
+
+a:visited, 
+a:visited * {
+color: #CDB4E7 !important;
+}
+
+a:hover,
+a:hover *:not(img){
+
+color: #FFE900 !important; 
+background-color: #363037 !important;
+border-color: #999 !important;
+}
+
+html [href*=&quot;#&quot;]:hover {
+color: #FFE900 !important;
+background-color: transparent !important;
+}
+
+
+/* Event Handlers/Attributes */
+
+[onclick],
+[ondblclick],
+[onmousedown] {
+color: #DFD5BC !important;
+text-indent: 0 !important;
+}
+
+[onclick]:hover,
+[ondblclick]:hover,
+[onmousedown]:hover {
+color: #FEFF97 !important;
+}
+
+/* Make images transparent */
+
+img {
+opacity: .75 !important;
+}
+
+img:hover {
+opacity: 1 !important;
+background-color: #888 !important;
+}
+
+svg {
+background: none #666 !important;
+}
+
+/* Highlight */
+::-moz-selection {
+background-color: #626F61 !important;
+color: #F6F7B9 !important;
+}
+
+/* :::::::: Specific Fixes :::::::: */
+
+/* google search link fix */
+.g .r {
+background-color: transparent !important;
+}
+
+/* google result hover highlight*/
+div.vsc:hover &gt; .vspi, div.vso &gt; .vspi {
+background: none transparent !important;
+border: none !important;
+}</style>
+  <style
+     type="text/css"
+     class="stylish"
+     id="stylish-4-3">@namespace html url(http://www.w3.org/1999/xhtml);
+@namespace xul url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
+
+/* Browser Background */
+browser[type=&quot;content-primary&quot;] {
+background-color: #141414 !important;
+}
+/*No background images. try to exclude icons, other misc items. */
+
+*:not(:empty):not([onclick*=&quot;open&quot;]):not(span):not([class*=&quot;stars&quot;]):not([id*=&quot;stars&quot;]):not([id=&quot;rating&quot;]):not([class=&quot;rating&quot;]):not([class*=&quot;prite&quot;]):not([id*=&quot;prite&quot;]):not([id*=&quot;lbImage&quot;]) {
+background-image: none !important;
+}
+
+/* Basic Bodies */
+html,
+body {
+background: none #141414 !important;
+}
+
+/* Make descendents of the body element transparent.  Formerly &quot;DIV + SPAN&quot; rules. */
+body * {
+background-color: transparent !important;
+}
+
+/* Give id's BG hopefully */
+div[id] {
+background-color: inherit !important;
+}
+
+/* Filter non-icons */
+span:not(:empty):not([class*=&quot;icon&quot;]):not([id*=&quot;icon&quot;]):not([class*=&quot;star&quot;]):not([id*=&quot;star&quot;]):not([id*=&quot;rating&quot;]):not([class*=&quot;rating&quot;]):not([class*=&quot;prite&quot;]) {
+
+background: none transparent !important;
+border-color: #000 !important;
+}
+
+/* Try to contrast containers */
+html:root &gt; body &gt; * &gt; * &gt; * &gt; *:not(input):not([onclick]) &gt; div:not(:empty):not([id]) {
+background: none #1c1c1c !important
+}
+
+/* :::::::: Text Presentation :::::::: */
+
+summary,
+details {
+background-color: inherit !important;
+}
+
+abbr,
+progress,
+time,
+label,
+.date {
+color: #CDEFC2 !important;
+}
+
+mark,
+code,
+pre,
+blockquote,
+[class*=&quot;quote&quot;],
+td[style*=&quot;inset&quot;][class=&quot;alt2&quot;] {
+background-color: #00090F !important;
+}
+
+
+/* :::::::: Headings + Header :::::::: */
+
+/* Header gradient rules */
+
+header, 
+#header {
+background: -moz-linear-gradient(#333,#141414) transparent !important;
+}
+
+#header h1 {
+background-color: transparent !important;
+}
+
+h1,
+h2 { 
+background: none #28313E !important;
+border-radius: 5px !important;
+-moz-border-radius: 5px !important;
+-webkit-border-radius: 5px !important;
+} 
+
+h3,
+h4 {
+background: none #2A3731 !important;
+border-radius: 5px !important;
+-moz-border-radius: 5px !important;
+-webkit-border-radius: 5px !important;
+} 
+
+h5,
+h6 {
+background: none #372A2A !important;
+}
+
+
+/* :::::::: Lists :::::::: */
+
+dt {
+background-color: #2B3135 !important;
+}
+
+dl,
+dd {
+background-color: #232323 !important;
+}
+
+li,
+ul {
+background-color: inherit !important;
+}
+
+li a:not([class*=&quot;icon&quot;]):not([id*=&quot;icon&quot;]):not([onclick]),
+dt a:not([class*=&quot;icon&quot;]):not([id*=&quot;icon&quot;]):not([onclick]) {
+background-image: none !important;
+text-indent: 0 !important;
+}
+
+/* :::::::: list Item highlight :::::::: */
+
+li[class*=&quot;item&quot;] a:hover,
+li[class*=&quot;item&quot;]:hover,
+
+/* Not list item, but still useful*/
+
+[class*=&quot;menuitem&quot;]:hover {
+background-color: #2E2B2F !important;
+}
+
+/* :::::::: Tables, cells :::::::: */
+
+table {
+background-color: #232323 !important; 
+border-color: #333 !important;
+}
+
+table table {
+background: #191919 !important;
+}
+
+th,
+caption {
+background-color: #353535 !important;
+}
+
+/* :::::::: Input :::::::: */
+
+/* === Basic === */
+
+/* anonymous divs */
+
+input *,
+textarea * {
+color: #DDD !important;
+}
+
+html body input:not([type=&quot;image&quot;]),
+button,
+html body textarea {
+
+background: none #353535 !important; 
+-moz-appearance: none !important;
+-webkit-appearance: none !important;
+color:  #DDD  !important;
+border: solid 1px #777 !important;
+border-radius: 0 !important;
+-moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+opacity: 1 !important;
+}
+
+/* Style reset. */
+
+html body input[type=&quot;checkbox&quot;] {
+-moz-appearance: checkbox !important;
+-webkit-appearance: checkbox !important;
+}
+
+html body input[type=&quot;radio&quot;] {
+-moz-appearance: radio !important;
+-webkit-appearance: radio !important;
+}
+
+/* :::::::: Custom styling :::::::: */
+
+html:root input[type=&quot;button&quot;],
+html:root input[type=&quot;submit&quot;],
+html:root input[type=&quot;reset&quot;],
+html:root button {
+
+color: #EEE !important;
+background-color: #222437 !important;
+
+-moz-box-shadow: inset 0 1px rgba(255,255,255,0.2), inset 0 10px rgba(255,255,255,0.1), inset 0 10px 20px rgba(255,255,255,0.15), inset 0 -15px 30px rgba(0,0,0,0.2) !important;
+-webkit-box-shadow: inset 0 1px rgba(255,255,255,0.2), inset 0 10px rgba(255,255,255,0.1), inset 0 10px 20px rgba(255,255,255,0.15), inset 0 -15px 30px rgba(0,0,0,0.2) !important;
+}
+
+html:root input[type=&quot;button&quot;]:hover,
+html:root input[type=&quot;submit&quot;]:hover,
+html:root input[type=&quot;reset&quot;]:hover,
+html:root button:hover {
+
+color: #FFF !important;
+background-color: #31344F !important;
+border-color: #5F687F !important;
+
+-moz-box-shadow: inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(255,255,255,0.2), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -15px 30px rgba(0,0,0,0.3) !important;
+-webkit-box-shadow:  inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(255,255,255,0.2), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -15px 30px rgba(0,0,0,0.3) !important;
+}
+
+html:root input[type=&quot;image&quot;] {
+opacity: .85 !important;
+}
+
+html:root input[type=&quot;image&quot;]:hover {
+opacity: .95 !important;
+}
+
+/* Drop-down menu */
+
+select,
+option,
+optgroup {
+
+background: none #383838 !important;
+border-color:#555 !important;
+color:#f1f1f1 !important;
+-moz-appearance: none !important;
+}
+
+/* :::::::: Misc :::::::: */
+
+address {
+background: none #333 !important;
+}
+
+hr {
+background: none #444 !important
+}
+
+/*currently viewed page*/
+.current {
+color: #FFF !important;
+}
+
+/* Remove Rounded Corners, Borders, Spacer, Padding images */
+
+img[src*=&quot;spacer&quot;]:empty,
+[id*=&quot;round&quot;]:empty,
+[id*=&quot;bottom&quot;]:empty, 
+[class*=&quot;bottom&quot;]:empty,
+[class*=&quot;Bottom&quot;]:empty,
+[id*=&quot;top&quot;]:empty,
+[class*=&quot;top&quot;]:empty,
+[class*=&quot;Top&quot;]:empty,
+[class*=&quot;spacer&quot;]:empty {
+background-image: none !important;
+}
+
+/* Menus and Navigation */
+
+nav, 
+menu,
+
+/*Common naming conventions - in case previous declarations fail to give solid BG*/
+
+html body [class*=&quot;open&quot;],
+html body [id*=&quot;Dropdown&quot;],
+html body [id*=&quot;dropdown&quot;],
+html body [class*=&quot;Dropdown&quot;],
+html body [class*=&quot;dropdown&quot;],
+html body [id*=&quot;menu&quot;]:not(SELECT),
+html body [class*=&quot;menu&quot;]:NOT(SELECT),
+html body [class*=&quot;tooltip&quot;],
+html body [class*=&quot;popup&quot;], 
+html body [id*=&quot;popup&quot;],
+
+/* Notes, details, etc.  Maybe useful */
+
+html body [class*=&quot;note&quot;],
+html body [class*=&quot;detail&quot;],
+html body [class*=&quot;description&quot;]
+
+{background-color: #232323 !important}
+
+/* Also common */
+[class*=&quot;content&quot;],
+[class*=&quot;container&quot;] {
+background-color: #1c1c1c !important;
+}
+
+/* Headers, Logos */
+
+[id*=&quot;masthead&quot;] a,
+[id*=&quot;header&quot;] a,
+[id*=&quot;logo&quot;] a,
+[class*=&quot;logo&quot;] a {
+text-indent: 0 !important;
+}
+
+/* Instead of increasing specificity rating by using :not, set rules separately */
+
+html:root body [class*=&quot;layer&quot;],
+html:root body #lightbox-nav,
+html:root body #imageContainer {
+background-color: transparent !important;
+}
+
+/*::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/
+
+/* Universal - sets color of text, border */
+
+* {
+color: #CCC !important; 
+border-color: #444 !important;
+outline-color: #444 !important;
+text-shadow: none !important;
+}
+
+html *:after,
+html *:before {
+color: #CCC !important;
+border-color: #666 !important;
+background: none transparent !important;
+}
+
+
+/* Link */
+
+a:link,
+a:link *:not(img){ 
+
+color: #B1CBF7 !important;
+background-color: transparent !important;
+border-color: #666 !important;}
+
+a:visited, 
+a:visited * {
+color: #CDB4E7 !important;
+}
+
+a:hover,
+a:hover *:not(img){
+
+color: #FFE900 !important; 
+background-color: #363037 !important;
+border-color: #999 !important;
+}
+
+html [href*=&quot;#&quot;]:hover {
+color: #FFE900 !important;
+background-color: transparent !important;
+}
+
+
+/* Event Handlers/Attributes */
+
+[onclick],
+[ondblclick],
+[onmousedown] {
+color: #DFD5BC !important;
+text-indent: 0 !important;
+}
+
+[onclick]:hover,
+[ondblclick]:hover,
+[onmousedown]:hover {
+color: #FEFF97 !important;
+}
+
+/* Make images transparent */
+
+img {
+opacity: .75 !important;
+}
+
+img:hover {
+opacity: 1 !important;
+background-color: #888 !important;
+}
+
+svg {
+background: none #666 !important;
+}
+
+/* Highlight */
+::-moz-selection {
+background-color: #626F61 !important;
+color: #F6F7B9 !important;
+}
+
+/* :::::::: Specific Fixes :::::::: */
+
+/* google search link fix */
+.g .r {
+background-color: transparent !important;
+}
+
+/* google result hover highlight*/
+div.vsc:hover &gt; .vspi, div.vso &gt; .vspi {
+background: none transparent !important;
+border: none !important;
+}</style>
+</svg>
