@@ -2,6 +2,8 @@
     Graphic Templates  
     http://o5command-int.wikidot.com/tech-team:graphic-templates
 
+The SCP Logo originaly was created by [far2](http://www.wikidot.com/user:info/far2). The Original SVG file was created by [Dr Devan](http://www.wikidot.com/user:info/dr-devan).
+
 * **scp-logo-400.png, scp-logo.svg**  
 SCP logo overhauled by [Dr_Grom](http://www.wikidot.com/user:info/dr-grom)
 
